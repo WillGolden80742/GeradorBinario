@@ -112,8 +112,8 @@ public class binario extends javax.swing.JFrame {
     }//GEN-LAST:event_cifrarActionPerformed
 
     private void gerarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_gerarActionPerformed
-        new Thread(gerarB).start();
         output.setText("");
+        new Thread(gerarB).start();
     }//GEN-LAST:event_gerarActionPerformed
 
     private final Runnable lerB = new Runnable() {
