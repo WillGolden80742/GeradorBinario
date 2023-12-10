@@ -14,7 +14,7 @@ To run the application, follow these steps:
 1. Make sure you have Java installed on your system.
 2. Clone this repository to your local machine.
    ```
-   git clone https://github.com/your-username/GeradorBinario.git
+   git clone https://github.com/WillGolden80742/GeradorBinario.git
    ```
 3. Navigate to the project directory.
    ```
