@@ -1,7 +1,3 @@
-Certainly! Here's a revised README.md, taking into account that the project was developed using NetBeans:
-
----
-
 # GeradorBinario
 
 GeradorBinario is a simple Java Swing application developed using NetBeans that facilitates the conversion of text to binary and vice versa. The application offers a user-friendly graphical interface for inputting text, generating binary code, and interpreting binary code back into text.
