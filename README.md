@@ -16,7 +16,6 @@ To run the application using NetBeans, follow these steps:
      ```
      git clone https://github.com/WillGolden80742/GeradorBinario.git
      ```
-     Replace `your-username` and `your-repository` with your GitHub username and the repository name.
 
 2. **Open the Project in NetBeans:**
    - Launch NetBeans and open the project by selecting "File" > "Open Project" and navigating to the cloned project directory.
